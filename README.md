@@ -1,17 +1,12 @@
 # File-Extension-Organizer
 This is a simple python script for organizing your files in a specific folder into individual folders based on the file's extension. 
 
-# README file for Python Scripts
-
-## Introduction
-This README file provides information about the Python scripts in this repository. The scripts are designed to perform various tasks related to data analysis, manipulation, visualization, and machine learning.
-
 ## Requirements
-The scripts are written in Python 3 and require the following packages to be installed:
+The scripts are written in Python 3.
 The script has no requirements and uses the python standard library
 
 ## Usage
-To use the scripts, simply download or clone the repository and run the desired script using a Python interpreter. The scripts can be run from the command line or from within an IDE such as Jupyter Notebook or PyCharm.
+To use the scripts, simply download or clone the repository and run the **script.py** using a Python interpreter. The scripts can be run from the command line or from within an IDE such as Jupyter Notebook or PyCharm.
 
 ## Scripts
 The following is a brief description of each script in this repository:
